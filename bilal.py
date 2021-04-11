@@ -79,7 +79,7 @@ os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;96m [¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 085691015635\x1b[1;96m  
 \033[1;96m [¤] \x1b[1;93mBILAL KHAN\x1b[1;96m      [¤] \x1b[1;93mFACEBOOK : tools termux\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mTOOLS BILAL CREATION\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : mr black0304\x1b[1;96m"""
+\033[1;96m [¤] \x1b[1;93mTOOLS BILAL CREATION\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : Pukhtoon Trickers\x1b[1;96m"""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "BILAL"
